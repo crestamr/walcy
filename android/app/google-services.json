@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "554076644329",
+    "firebase_url": "https://walcy-6bcbd-default-rtdb.firebaseio.com",
+    "project_id": "walcy-6bcbd",
+    "storage_bucket": "walcy-6bcbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554076644329:android:94845b32714c87346ba178",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554076644329-7k45he3ag6fahpr3qoqvamosn9585n7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB90nvN4B8ten4dSh0NAWk9AOn5y8X_uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554076644329-7k45he3ag6fahpr3qoqvamosn9585n7v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "554076644329-77tfsgs8itno6ugd5t6rbio9bocrnlmm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.admin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
